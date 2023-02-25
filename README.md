@@ -15,11 +15,11 @@
 
 <br>
 
-![Random Choice Picker]()
+![Random Choice Picker](images/random-choice-picker.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Random-Choice-Picker/)
 
 <br>
 
